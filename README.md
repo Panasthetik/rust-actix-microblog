@@ -7,7 +7,7 @@ PostgresQL needs to be installed
 
 You need to initialize a new database "profiles_db" in the root directory of this project as follows:
 
-``initdb /YOUR_PROJECT_PATH/rust-crud-postgres-app/profiles_db``
+``initdb /YOUR_PROJECT_PATH/rust-crud-postgres-app/tweets_db``
 
 You then should perform the following:
 
